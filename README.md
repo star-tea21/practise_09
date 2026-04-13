@@ -21,3 +21,40 @@
 
 Задание 2. Сделать чтение / запись своей структуры в бинарный файл.
 Оформить в виде подпрограмм.
+
+Вылаваемый результат по двум практикам:
+
+загружено рейтингов: 20
+
+информация об игре:
+название: Starcraft 2
+платформа: PC
+цена: 1200
+аудитория: 10000000
+жанр: strategy
+разработчик: Blizzard
+рейтинг: 6
+
+3 самых дорогих игры:
+1. Microsoft Flight Simulator 4000
+2. Zelda Tears of Kingdom 4000
+3. Mario Kart 8 3500
+
+Авиасимуляторы с аудиторией от 1 млн:
+1. Microsoft Flight Simulator
+2. IL-2 Sturmovik
+
+отсортированный массив:
+1. IL-2 Sturmovik (платформа: PC)
+2. Microsoft Flight Simulator (платформа: Mobile)
+
+Стратегии для PC:
+1. Age of Empires 4
+2. Starcraft 2
+3. Warcraft 3
+массив записан в бинарный файл C:/Users/palee/Desktop/games.bin.txt
+массив прочитан из бинарного файла C:/Users/palee/Desktop/games.bin.txt
+
+чтение первая игра): Baldurs Gate 3, рейтинг: 10
+
+игра Zelda Tears of Kingdom переименована в The Legend of Zelda
